@@ -1,0 +1,165 @@
+---
+format:
+  html:
+    embed-resources: true
+    css: styles.css
+    toc: true
+    logo: flafs_logo.png
+  docx:
+    toc: true
+filters:
+  - color-text.lua
+---
+
+::::: {.notes-head}
+
+:::: {.notes-head-img}
+
+<img src='flafs_logo.png'>
+
+::::
+
+:::: {.notes-head-title}
+
+::: {.h1 .title}
+
+Continuing Education Committee Meeting Notes
+
+:::
+
+::::
+
+:::::
+
+# 2023
+
+## June 27
+
+**Agenda:**
+
+* Discuss options for a virtual Summer/Fall workshop
+
+* ~~*Review new committee webpage*~~  
+
+**Attendees:**
+
+:::: {.grid}
+
+::: {.g-col-6}
+
+* Allison Durland-Donahou
+
+* Jason O'Connor
+
+* Rachel Liebman
+
+* Kerry Walia-Flaherty
+
+:::
+
+::: {.g-col-6}
+
+* Nick Trippel
+
+* Dan Nelson
+
+* Bridgette Froeschke
+
+:::
+
+::::
+
+**Notes:**
+
+* Allison has created a survey draft and distributed to CE committee. She also reached out to Marcus Beck and he provided a few questions to add to the survey. Allison will revise draft and distribute to membership in the next week or so. CE committee, please review draft and send Allison any revisions ASAP. 
+
+* Rachel is still working on website update ideas for the committee page. We will table this discussion for future meeting.
+
+* Open forum for discussing ideas for a virtual summer workshop (late Aug - early Sep)
+  - Rachel suggested that a lot of CE workshops are geared towards early career professionals, how can we pick topics that might be of more interest to mid-late career professionals as well? 
+    - how to build mentor-mentee relationships
+    - retirement planning
+    - time management
+  - leadership development  
+    * Discussed our previous attempt to recruit Steve McMillan to give an in person seminar at the 2022 chapter meeting. Plans fell through and we pivoted, but might be worth revisiting. Maybe not the best option for a virtual meeting because it would be nice to give people opportunity to meet and speak with Steve in person. 
+    * Alternatively, Nick or Dan might be able to coordinate with NRDI instructors to host a workshop on leadership topics
+  - Career fair/panel oriented towards students
+  - science communication
+    * technical writing
+    * how to talk to the public
+    * conflict management
+
+* Group discussion began to gravitate around the career panel idea. 
+  - better in person or virtual?
+    - virtual option might allow us to recruit panelists, who might not typically be willing/able to travel to in-person meeting, but miss out on networking opportunities and face-to-face interaction
+    - in-person - gives students a more personal experience/networking opportunites/more engaging, but maybe more difficult to recruit panelists and fitting a panel in meeting agenda could be tough logistically 
+  - Dan suggested we do both - virtual in the fall and then carving out a spot in the chapter meeting agenda for an in-person career fair event, where organizations would have table space set up during an open session. Group expressed general agreement with this approach.
+  - Need to pitch the idea of having a career panel at the next chapter meeting to EXCOM. It will need to be accounted for in the meeting agenda. 
+
+* What do we need to do to organize virtual panel for the fall?
+  - Identify organizations and panelists to contact -- shared google doc would be a great place to store this information
+  - Platform? - Microsoft teams is convenient for FWC and other folks employed at large organizations, but zoom might more familiar to students than teams, also may be able to avoid headaches with out-of-network attendees using zoom. Allison has zoom account through Florida Southern that can accommodate ~ 100 attendees. Maybe Angela has access to zoom account through UF with even greater capability? 
+  - When should we plan to host the seminar? 
+    * late summer, before class starts may be good for grad students, but undergrads usually MIA
+    * if we host it during the school year, it would give us an opportunity to announce the panel through professors
+    * Allison suggested doing it within the first month of the semester before workload picks up for both students and professors. 
+    * Classes start Aug 23rd for many - maybe we try to target mid September. Might be good to see if there is a time that best for the greatest number of panelists before setting final date. 
+* Lets start compiling a list of potential panelists and format ideas. Everyone please take some time before the next meeting to add ideas and thoughts to google doc that Jason will share. 
+* Meet again in 1 month to discuss progress, and next steps. 
+      
+
+**To Do:**
+
+- [ ] Finalize survey draft and distribute to membership - [*Allison*]{color="blue"}
+
+- [ ] new webpage mock-up - [*Rachel*]{color="blue"}
+
+- [ ] figure out a good way to implement repository for committe documents- [*Jason*]{color="blue"}
+
+- [ ] schedule July meeting - [*Jason*]{color="blue"}
+
+- [ ] Create a shared google doc for organizing virtual job panel - [*Jason*]{color="blue"}
+
+- [ ] Contribute ideas to shared document - [*All*]{color="blue"}
+
+**Next Meeting:**
+
+*TBD* - late July, keep an eye out for meeting schedule poll
+
+*Tentative Agenda*:
+
+- Virtual career panel planning
+    - review panelist ideas and discuss any communications with potential panelists
+    - discuss format ideas
+    - who will moderate? 
+    - how/where do we advertise?
+
+## May 23
+
+**Attendees:**
+
+* Allison Durland-Donahou
+
+* Jason O'Connor
+
+* Rachel Liebman
+
+**Notes:**
+
+* Briefly discussed the Open Sci workshop hosted by Marcus Beck at the 2023 Chapter Meeting. Attendance was ~20-25. This was higher slightly higher than attendance at the critical thinking workhop presented at the 2022 Chapter Meeting. Mostly positive reviews of the workshop. We had about ~60-70 people indicate that they planned to attend the workshop on the meeting registration form, in light of this, attendance was somewhat disappointing. Did the timing of the workshop (post-meeting) hamper attendance or was topic less interesting to membership? - Might be good time to send out a membership survey.
+
+* Rachel suggested updating website to include a continuing ed page that list other opportunities for professional development in addition to the workshops the committee has organized. More a one-stop shop for all kinds of resources related to continuing education. 
+
+* The committee has a lot of resources we've accumlated: meeting notes, idea lists, survey templates, and results. It would be good to establish a central repository (*e.g.* google drive, website page, etc) for these resources so they are easier to find, and pass on to new committee members in the future.
+
+* Let's plan to meet Late June-Early July to discuss summer/fall workshop ideas. 
+
+**To Do:**
+
+- [x] put together membership survey - [*Allison*]{color="blue"}
+
+- [ ] new webpage mockup - [*Rachel*]{color="blue"}
+
+- [ ] figure out a good way to implement repository - [*Jason*]{color="blue"}
+
+- [x] send out meeting invite - [*Jason*]{color="blue"}
