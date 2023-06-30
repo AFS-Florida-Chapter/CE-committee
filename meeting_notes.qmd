@@ -2,20 +2,18 @@
 format:
   html:
     embed-resources: true
-    css: styles.css
+    css: format/styles.css
     toc: true
-    logo: flafs_logo.png
-  docx:
-    toc: true
+    logo: format/flafs_logo.png
 filters:
-  - color-text.lua
+  - format/color-text.lua
 ---
 
 ::::: {.notes-head}
 
 :::: {.notes-head-img}
 
-<img src='flafs_logo.png'>
+<img src='format/flafs_logo.png'>
 
 ::::
 
@@ -39,7 +37,7 @@ Continuing Education Committee Meeting Notes
 
 * Discuss options for a virtual Summer/Fall workshop
 
-* ~~*Review new committee webpage*~~ - tabled for future meeting
+* ~~*Review new committee webpage*~~  
 
 **Attendees:**
 
@@ -163,3 +161,66 @@ Continuing Education Committee Meeting Notes
 - [ ] figure out a good way to implement repository - [*Jason*]{color="blue"}
 
 - [x] send out meeting invite - [*Jason*]{color="blue"}
+
+# 2021
+
+## January 14
+
+**Agenda:**
+
+Discuss Spring 2021 Virtual Workshop with co-hosts Summer Lindelien and Jessica Carroll
+
+
+**Notes:**
+
+1. Background Information - Summer
+    a. Reviewed slides from her workshop to show framework to meeting attendees that have not taken her workshop
+1. Non-lethal aging studies conducted by Jessica and her team in St. Pete
+    a. Goliath Grouper
+       i)	Long-term study using fun rays, otoliths and spines from carcasses
+       i)	Closed fishery
+    a.	Red Drum
+        i)	Telemetry study, avoided sacrificing
+    a.	Spines from Tortugas in closed fisheries mgmt areas
+        i)	Almost every reef fish sampled by FIM
+        i)	Gag and red snapper have good agreement
+3.	Workshop Goals
+    a.	Broad audience by including FW and Marine species
+    b.	Combine similarities between FW and Marine
+    c.	Highlight differences that could exist
+    d.	Teach practical applications of non-lethal aging to FL AFS membership using case studies in Largemouth Bass, Gag Grouper and Goliath Grouper
+4.	Marine
+    a.	More strategic implementation, less likely to use non-lethal aging in management
+5.	Dependent and independent monitoring biologist attendee considerations 
+    a.	Focus on collecting and processing aspect
+6.	Considerations for new species
+    a.	Spine morphology, different structures
+7.	Storage and transportation considerations – best practices
+    a.	Very helpful for those with less experience/background
+8.	Considerations for students, others without aging experience
+    a.	Basic background on aging structures to provide big picture for those without any aging experience
+9.	Pre vs post survey about workshop experience
+    a.	Tailor surveys to meet feedback goals of CE Committee and workshop presenters
+10.	Workshop Duration
+    a.	~4 hours maximum
+    b.	2 short breaks
+11.	Include demonstration of QAQC in workshop looking at data from workshop attendees
+12.	Is Adobe Connect the best platform?
+    a.	How well does it handle large groups (50+)?
+13.	Attendee Considerations
+    a.	How to limit access? Can we limit
+14.	Date and Time
+    a.	April 14th @ 0900-1300
+15.	Title for Workshop
+    a.	Practical Applications of Non-lethal Aging of Freshwater and Marine Fishes
+        i.	Marine Focal Species = Gag and Goliath Grouper
+        ii.	Freshwater Focal Species = Largemouth Bass
+16.	Next Meeting: Mid-march 
+    a.	I’ll send out a meeting invite to go generally go over workshop with inclusion of marine spp.
+
+**To Do:**
+
+- [x] Reach out to Laura Jerome about AdobeConnect - [*Summer*]{color="blue"}
+- [x] Collaborate to to incorporate content for Gag and Goliath and general intro - [*Summer & Jess*]{color="blue}
+- [x] Draft agenda for January Shellcracker - [*Summer & Jess*]{color="blue}
+- [x] Schedule next meeting (mid-March) - [*Chris*]{color="blue}
