@@ -57,6 +57,83 @@ Continuing Education Committee Meeting Notes
 
 - narrow ideas down to a short list & assign responsibilities for contacting presenters
 
+**Attendees:**
+
+:::: {.grid}
+
+::: {.g-col-6}
+
+* Allison Durland-Donahou
+
+* Jason O'Connor
+
+* Rachel Liebman
+
+* Kerry Walia-Flaherty
+
+:::
+
+::: {.g-col-6}
+
+* Nick Trippel
+
+* Bridgette Froeschke
+
+* Carissa Gervassi
+
+:::
+
+::::
+
+**Notes**
+
+- The fall virtual career panel fell through, where do we go from here? 
+  - We had a lot of the groundwork laid out, let's reformat for annual meeting
+  - format?
+    - lunch - student/mentor format 
+      - 1:1 or 1:2
+    - breakfast on last day in poster room? 
+       - maybe not a great time, people tired/some leaving
+    - more traditional panel round table directly following lunch on the last day
+    - Could do both student/mentor lunch (Wed) and career panel (Thurs). 
+- Poster room -- could it be done in there? Ask Steve
+  - may depend on how many people show up
+- Outside tiki/pool area if the weather cooperates
+
+- Can people who want to attend a thursday afternoon reserve room at group rate for thrusday night (ask Steve)?
+
+- Chelsey volunteer to host a sci-com workshop
+  - Similar workshop was done in 2017, was well attended. 
+  - Worth revisiting in the future, but let's stick with just the career panel for this meeting to avoid over-loading the meeting
+
+- Let's move forward planning with hosting both a student/mentor lunch and career panel
+  - Need to identify potential mentors for S-M lunch
+    - add check box to registration 
+      - reg is currently open, but since most reg typically happens last day we probably still have time to work it in. **Talk with Steve**
+      - If we don't get enough volunteers, we will recruit with directed e-mails from list of registrants. 
+  - Need to agree on panelists for career panel
+    - 6 is probably a good number
+    - pull from people attending or reach out to others who don't normally? 
+      - 3 regulars/3 non-regulars - key is to introduce some diversity into the panel
+    - Let's agree upon panelists via email (**Deadline: 2 weeks (1/31/24)**)
+      - consider having one panelist from different career categories:
+        - academia: research
+        - academia: teaching
+        - state agency
+        - federal agency
+        - policy/environmental law (recruit... don't normally attend)
+        - Hubbard marina (charter fishing)
+        
+        
+**To Do:**
+
+- [ ] Ask Steve about getting a mentor volunteer check box added to reg form - [*Jason*]{color="blue"}
+
+- [ ] Send out e-mail to CE comm to organize panelist selection - [*Jason*]{color="blue"}
+
+- [ ] Contact selected candidates by 1/31/24 - [*TBD - CE group effort*]{color="blue"}
+    
+
 # 2023
 
 ## July 27
