@@ -6,7 +6,7 @@ format:
     toc: true
     logo: format/flafs_logo.png
 filters:
-  - format/color-text.lua
+  - format/color-text2.lua
 ---
 
 ::::: {.notes-head}
