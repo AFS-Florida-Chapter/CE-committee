@@ -31,6 +31,119 @@ Continuing Education Committee Meeting Notes
 
 [**CE Committee Docs**](https://drive.google.com/drive/folders/1W_bZGeJDpjzV0rEXNILKVXCh2YZljoJC)
 
+# 2025
+
+## April 15
+
+**Meeting Objective(s):**
+
+* Identify action items needed to organize a resume/cv workshop
+
+**Attendees:**
+
+:::: {.grid}
+
+::: {.g-col-6}
+
+* Jason O'Connor
+
+* Allison Durland-Donahou
+
+* Brittany Hall-Scharf
+
+* Rachel Liebman
+
+:::
+
+::: {.g-col-6}
+
+* Ed Camp
+
+* Nick Trippel
+
+* Sara Menendez
+
+* Steve Beck
+
+:::
+
+::::
+
+**Notes:**
+
+* What is our goal? 
+  - target audience: students & professionals of all experience levels
+  - advice and discussion on the process of applying for fisheries-related careers
+  
+* What are folks ideas for how this workshop might be structured?
+  - would be good to have a mix of prepared and participant questions
+  - want to have a diversity in the types of organizations represented by the panel
+  - want to have some visuals - maybe a brief powerpoint with examples of application material for review
+  - mentimeter was a hit last year, let's incorporate again this year - allow participants to submit questions anonymously and allow meeting attendees to submit "application do's and don'ts" throughout the week which will serve as a jumping off point for panel discussion
+  - maybe could ask panelist to prepare some examples of good and bad applicants. 
+  - Ask panelist to meet ahead of time? 
+  
+* **possible discussion question**: When to use a resume vs cv? 
+
+* Do we need a moderator? 
+  - Kerry set up mentimeter last year.. can she do again?
+  - Allison can moderate and Rachel maybe can provide assistance
+
+* maybe have participants break out into small groups at the end to review and critique their own resumes if they so choose
+
+* would be good to have name placards for panelists
+
+* What is the scope of the discussion? Just resume/cv or also the prep work that goes into preparing an application?   
+  - includes prep
+
+* **possible discussion question**: what kind of review or filtering process do applications go through at your organization before they reach the hiring manager? 
+
+* What is the title of the panel discussion?
+  - **Net your next job: Preparing resumes, CVs, cover letters, and research needed to land your next job**
+
+* Who are potential panelists
+  - Ed Camp (UF) 
+  - Nick Trippel (FWC)
+  - Jen Rehage (FIU) - Allison will reach out
+  - Steve Miller (SJWMD) - Nick will reach out
+  - David Beasley (Solitude Lake) - Jason will reach out
+  - National Fish Hatchery rep - Nick will reach out 
+  
+* Tentative Panel Discussion Outline
+  - Intro (15-20 minute)
+    - discuss "do's and don'ts" from mentimeter responses
+    - panelist introductions
+  - Facilitated Question and Answer (45-60 min)
+    - encourage audience participation
+    - have prepared questions to stimulate discussion when needed
+  - Review examples of good and bad application materials (20-30 min)
+  - Break out into small groups for peer review (20-30 min)
+
+
+<!--
+
+* Resume resources list:
+    - AFS Webinar - [Getting Hired - What Students Need to Know](https://fisheries.org/2018/05/recording-getting-hired-what-students-need-to-know/)
+    - AFS Webinar - [Employment Insecurity - Planning for the Next Steps](https://fisheries.org/2025/02/webinar-recording-employment-insecurity-planning-for-the-next-steps/)
+    
+-->  
+
+**To Do:**
+
+- [ ] Send out meeting program with panel discussion announcement. - [*Steve*]{color="blue"}
+
+- [ ] Update meeting webpage with panel discussion information. - [*Jason*]{color="blue"}
+
+- [ ] Prepare a panel discussion announcement e-mail to be sent out to chapter list-serve shortly before the meeting. - [*Rachel*]{color="blue"}
+
+- [ ] Setup mentimeter for meeting. *Do's & Don'ts* to run throughout meeting to get responses from all meeting attendees. *Audience questions* to run during the panel to solicit anonymous participant questions. - [*Rachel, Kerry*]{color="blue"}
+
+- [ ] Create shared docs to organize panel discussion materials using committee google drive. - [*Rachel*]{color="blue"}
+
+- [ ] Contact possible panelists. - [*Jason, Allison, Nick*]{color="blue"}
+
+
+---------------------------------------------------------
 # 2024 
 
 ## December 6
